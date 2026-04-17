@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Full-Stack Software Engineer** with **6+ years of experience** designing and delivering scalable web applications. My journey started in **2018** as a Web Design Trainer and I now specialize in modern **Laravel + Vue3 + Inertia.js** stacks — building clean, performant, and maintainable systems.
+I'm a passionate **Full-Stack Software Engineer** with **6+ years of experience** designing and delivering scalable web applications. My journey started in **2018** as a Frontend developer, and I now specialize in modern **Laravel + Vue3 + Inertia.js** stacks — building clean, performant, and maintainable systems.
 
 I also actively integrate **AI tools** (Claude, ChatGPT) into my development workflow to boost productivity and build smarter solutions.
 
