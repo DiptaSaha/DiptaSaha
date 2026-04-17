@@ -6,7 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:dipta196@gmail.com"><img src="https://img.shields.io/badge/Gmail-dipta196@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:dipta196@gmail.com"><img src="https://img.shields.io/badge/Gmail--D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://about.me/diptasaha"><img src="https://img.shields.io/badge/about.me--00A98F?style=flat-square&logo=aboutdotme&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/diptasahapartha/"><img src="https://img.shields.io/badge/LinkedIn--0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.facebook.com/Dipta.Saha.Partha"><img src="https://img.shields.io/badge/Facebook--1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=DiptaSaha&style=flat-square&color=6366f1&label=Profile+Views"/>
 </p>
@@ -104,7 +110,19 @@ I care deeply about **clean code**, thoughtful architecture, and delivering solu
 
 <p>
   <a href="mailto:dipta196@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dipta196@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail--EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://about.me/diptasaha">
+    <img src="https://img.shields.io/badge/about.me--00A98F?style=for-the-badge&logo=aboutdotme&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/diptasahapartha/">
+    <img src="https://img.shields.io/badge/LinkedIn--0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/Dipta.Saha.Partha">
+    <img src="https://img.shields.io/badge/Facebook--1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
 
