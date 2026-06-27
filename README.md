@@ -76,7 +76,6 @@ I care deeply about **clean code**, thoughtful architecture, and delivering solu
 
 ## 🌱 Currently Exploring
 
-- **Nuxt.js** — Server-side rendering with Vue3
 - **Docker** — Containerization & environment consistency
 - **REST API design** — Scalable and versioned API architecture
 - **CI/CD pipelines** — Automated testing and deployment workflows
